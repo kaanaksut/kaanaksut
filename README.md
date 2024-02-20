@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaanaksut&show_icons=true&locale=en" alt="kaanaksut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaanaksut&" alt="kaanaksut" /></p>
+
+
+
+![snake gif](https://github.com/kaanaksut/kaanaksut/blob/output/github-contribution-grid-snake.gif)
